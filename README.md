@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clifton but everyone calls me Cliff
 - 👀 I’m curretly studying for my Bachelors in Cybersecurity
-- 🌱 I’m currently learning Java and Python to contribute to new developments
+- 🌱 I’m currently learning Python to contribute to new developments
 - 💞️ I’m looking to collaborate on any ptojects where I can put my learning skills to the test
 - 📫 How to reach me cliftonrmallory@gmail.com or https://www.linkedin.com/in/clifton-mallory-725109199/
 
